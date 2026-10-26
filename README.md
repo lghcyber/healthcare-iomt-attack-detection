@@ -174,7 +174,7 @@ Notable class F1-scores included:
 - Lateral Movement: **0.85**
 
 ## 📈 Model Comparison
-
+![Model Accuracy Comparison](model_accuracy_comparison.png)
 | Model | Accuracy |
 |---|---:|
 | Decision Tree | 98.88% |
